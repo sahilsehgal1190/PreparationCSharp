@@ -5,13 +5,11 @@
     static void Main(string[] args)
     {
         //string strNumber = "100";
-
-        //int i = strNumber;
-
-
-
-
         
+
+
+
+   
         bool? AreYouMajor = null;
 
         if (AreYouMajor == true)
